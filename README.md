@@ -16,6 +16,9 @@ No-one has a choice but to fight and get involved because every one of us person
  #Ubuntu 10 Days Challenge 
  
  Our Goal is to create this app in coming 10 days , we invite you join the challenge and contribute. 
+ Documentation
+
+The full documentation for the UB-UNTU-App can be found in the repository. The documentation repository contains technical documents, architecture information, and white papers related to this implementation.
 
 
 
