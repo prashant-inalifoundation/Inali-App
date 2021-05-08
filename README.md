@@ -1,4 +1,4 @@
-# UBUNTU
+# UB-UNTU-App
 
 
 “The Belief that we are define by our Kindness and compassion towards others”
